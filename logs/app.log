@@ -1,0 +1,268 @@
+2023-11-02T13:34:21.898Z info: 🟢 Middlewares configurated
+2023-11-02T13:34:21.907Z info: 🟢 Routes registered
+2023-11-02T13:34:21.919Z info: 🟢 App listening on the port 3000
+2023-11-02T13:34:22.026Z info: 🟢 Connected to the database
+2023-11-02T13:38:29.564Z info: [0mGET /users [32m200[0m 246.816 ms - 2[0m
+2023-11-02T13:39:42.361Z info: [0mGET /users [32m200[0m 30.725 ms - 2[0m
+2023-11-02T13:43:14.353Z info: [0mPOST /users [32m200[0m 174.594 ms - 234[0m
+2023-11-02T13:47:21.178Z info: 🟢 Middlewares configurated
+2023-11-02T13:47:21.207Z info: 🟢 Routes registered
+2023-11-02T13:47:21.217Z info: 🟢 App listening on the port 3000
+2023-11-02T13:47:21.313Z info: 🟢 Connected to the database
+2023-11-02T13:47:23.018Z info: 🟢 Middlewares configurated
+2023-11-02T13:47:23.023Z info: 🟢 Routes registered
+2023-11-02T13:47:23.030Z info: 🟢 App listening on the port 3000
+2023-11-02T13:47:23.055Z info: 🟢 Connected to the database
+2023-11-02T13:48:13.425Z info: 🟢 Middlewares configurated
+2023-11-02T13:48:13.431Z info: 🟢 Routes registered
+2023-11-02T13:48:13.438Z info: 🟢 App listening on the port 3000
+2023-11-02T13:48:13.467Z info: 🟢 Connected to the database
+2023-11-02T13:49:13.307Z info: 🟢 Middlewares configurated
+2023-11-02T13:49:13.310Z info: 🟢 Routes registered
+2023-11-02T13:49:13.316Z info: 🟢 App listening on the port 3000
+2023-11-02T13:49:13.343Z info: 🟢 Connected to the database
+2023-11-02T13:51:03.376Z info: 🟢 Middlewares configurated
+2023-11-02T13:51:03.385Z info: 🟢 Routes registered
+2023-11-02T13:51:03.396Z info: 🟢 App listening on the port 3000
+2023-11-02T13:51:03.445Z info: 🟢 Connected to the database
+2023-11-02T13:51:18.779Z info: 🟢 Middlewares configurated
+2023-11-02T13:51:18.786Z info: 🟢 Routes registered
+2023-11-02T13:51:18.798Z info: 🟢 App listening on the port 3000
+2023-11-02T13:51:18.851Z info: 🟢 Connected to the database
+2023-11-02T13:52:26.865Z info: 🟢 Middlewares configurated
+2023-11-02T13:52:26.869Z info: 🟢 Routes registered
+2023-11-02T13:52:26.875Z info: 🟢 App listening on the port 3000
+2023-11-02T13:52:26.897Z info: 🟢 Connected to the database
+2023-11-02T13:52:38.921Z info: 🟢 Middlewares configurated
+2023-11-02T13:52:38.925Z info: 🟢 Routes registered
+2023-11-02T13:52:38.931Z info: 🟢 App listening on the port 3000
+2023-11-02T13:52:38.961Z info: 🟢 Connected to the database
+2023-11-02T13:55:40.865Z info: 🟢 Middlewares configurated
+2023-11-02T13:55:40.872Z info: 🟢 Routes registered
+2023-11-02T13:55:40.878Z info: 🟢 App listening on the port 3000
+2023-11-02T13:55:40.915Z info: 🟢 Connected to the database
+2023-11-02T14:09:54.882Z info: 🟢 Middlewares configurated
+2023-11-02T14:09:54.891Z info: 🟢 Routes registered
+2023-11-02T14:09:54.906Z info: 🟢 App listening on the port 3000
+2023-11-02T14:09:54.975Z info: 🟢 Connected to the database
+2023-11-02T14:09:59.436Z info: 🟢 Middlewares configurated
+2023-11-02T14:09:59.444Z info: 🟢 Routes registered
+2023-11-02T14:09:59.452Z info: 🟢 App listening on the port 3000
+2023-11-02T14:09:59.461Z info: 🟢 Connected to the database
+2023-11-02T14:10:56.124Z info: [0mPOST /users [33m401[0m 93.212 ms - 1153[0m
+2023-11-02T14:14:33.455Z info: [0mGET /auth/login [33m404[0m 28.386 ms - 149[0m
+2023-11-02T14:14:42.353Z info: [0mPOST /auth/login [33m404[0m 0.989 ms - 150[0m
+2023-11-02T14:15:15.819Z info: 🟢 Middlewares configurated
+2023-11-02T14:15:15.825Z info: 🟢 Routes registered
+2023-11-02T14:15:15.833Z info: 🟢 App listening on the port 3000
+2023-11-02T14:15:15.857Z info: 🟢 Connected to the database
+2023-11-02T14:16:41.457Z info: [0mPOST /auth/login [33m404[0m 59.807 ms - 150[0m
+2023-11-02T14:17:17.355Z info: 🟢 Middlewares configurated
+2023-11-02T14:17:17.363Z info: 🟢 Routes registered
+2023-11-02T14:17:17.370Z info: 🟢 App listening on the port 3000
+2023-11-02T14:17:17.386Z info: 🟢 Connected to the database
+2023-11-02T14:17:22.993Z info: [0mPOST /auth/login [33m401[0m 102.838 ms - 406[0m
+2023-11-02T14:18:09.659Z info: [0mPOST /auth/login [33m401[0m 28.545 ms - 406[0m
+2023-11-02T14:20:46.620Z info: 🟢 Middlewares configurated
+2023-11-02T14:20:46.625Z info: 🟢 Routes registered
+2023-11-02T14:20:46.631Z info: 🟢 App listening on the port 3000
+2023-11-02T14:20:46.648Z info: 🟢 Connected to the database
+2023-11-02T14:22:06.741Z info: [0mPOST /auth/login [33m401[0m 139.679 ms - 406[0m
+2023-11-02T14:29:09.664Z info: [0mPOST /auth/signup [32m200[0m 361.659 ms - 213[0m
+2023-11-02T14:32:11.731Z info: [0mGET /auth/login [33m404[0m 6.421 ms - 149[0m
+2023-11-02T14:32:51.065Z info: [0mPOST /auth/login [32m200[0m 234.888 ms - 396[0m
+2023-11-02T14:33:58.125Z info: 🟢 Middlewares configurated
+2023-11-02T14:33:58.137Z info: 🟢 Routes registered
+2023-11-02T14:33:58.145Z info: 🟢 App listening on the port 3000
+2023-11-02T14:33:58.181Z info: 🟢 Connected to the database
+2023-11-02T14:36:02.331Z error: Validation Error: El ID proporcionado no es válido para MongoDB.
+2023-11-02T14:36:02.361Z info: [0mGET /users/:id=2 [33m400[0m 182.740 ms - 772[0m
+2023-11-02T14:36:38.014Z error: Validation Error: El ID proporcionado no es válido para MongoDB.
+2023-11-02T14:36:38.017Z info: [0mGET /users/:id=6543b235f1b8a5d0339815bd [33m400[0m 12.524 ms - 772[0m
+2023-11-02T14:36:47.073Z error: Validation Error: El ID proporcionado no es válido para MongoDB.
+2023-11-02T14:36:47.075Z info: [0mGET /users/:id=%226543b235f1b8a5d0339815bd%22 [33m400[0m 10.218 ms - 772[0m
+2023-11-02T14:37:26.540Z info: [0mGET /users/6543b235f1b8a5d0339815bd [32m200[0m 118.398 ms - 213[0m
+2023-11-02T14:39:24.016Z info: [0mDELETE /users/6543a772c814ff6b720a58f4 [33m401[0m 47.924 ms - 1153[0m
+2023-11-02T14:39:59.118Z info: [0mDELETE /users/6543a772c814ff6b720a58f4 [32m200[0m 128.403 ms - 211[0m
+2023-11-02T14:46:25.859Z info: [0mPOST /auth/signup [31m500[0m 380.598 ms - 638[0m
+2023-11-02T15:03:30.612Z info: 🟢 Middlewares configurated
+2023-11-02T15:03:30.622Z info: 🟢 Routes registered
+2023-11-02T15:03:30.634Z info: 🟢 App listening on the port 3000
+2023-11-02T15:03:30.701Z info: 🟢 Connected to the database
+2023-11-02T15:09:17.095Z info: 🟢 Middlewares configurated
+2023-11-02T15:09:17.110Z info: 🟢 Routes registered
+2023-11-02T15:09:17.121Z info: 🟢 App listening on the port 3000
+2023-11-02T15:09:17.187Z info: 🟢 Connected to the database
+2023-11-02T15:09:59.388Z info: 🟢 Middlewares configurated
+2023-11-02T15:09:59.395Z info: 🟢 Routes registered
+2023-11-02T15:09:59.404Z info: 🟢 App listening on the port 3000
+2023-11-02T15:09:59.429Z info: 🟢 Connected to the database
+2023-11-02T15:10:20.173Z info: 🟢 Middlewares configurated
+2023-11-02T15:10:20.192Z info: 🟢 Routes registered
+2023-11-02T15:10:20.207Z info: 🟢 App listening on the port 3000
+2023-11-02T15:10:20.247Z info: 🟢 Connected to the database
+2023-11-02T15:10:27.222Z error: Error 500 - User validation failed: rol: `otros` is not a valid enum value for path `rol`.
+2023-11-02T15:10:27.236Z info: [0mPOST /auth/signup [31m500[0m 364.384 ms - 105[0m
+2023-11-02T15:24:20.126Z info: 🟢 Middlewares configurated
+2023-11-02T15:24:20.150Z info: 🟢 Routes registered
+2023-11-02T15:24:20.164Z info: 🟢 App listening on the port 3000
+2023-11-02T15:24:20.184Z info: 🟢 Connected to the database
+2023-11-02T15:25:23.360Z info: 🟢 Middlewares configurated
+2023-11-02T15:25:23.375Z info: 🟢 Routes registered
+2023-11-02T15:25:23.389Z info: 🟢 App listening on the port 3000
+2023-11-02T15:25:23.422Z info: 🟢 Connected to the database
+2023-11-02T15:26:19.937Z info: 🟢 Middlewares configurated
+2023-11-02T15:26:19.950Z info: 🟢 Routes registered
+2023-11-02T15:26:19.958Z info: 🟢 App listening on the port 3000
+2023-11-02T15:26:19.976Z info: 🟢 Connected to the database
+2023-11-02T15:27:25.166Z info: 🟢 Middlewares configurated
+2023-11-02T15:27:25.174Z info: 🟢 Routes registered
+2023-11-02T15:27:25.192Z info: 🟢 App listening on the port 3000
+2023-11-02T15:27:25.207Z info: 🟢 Connected to the database
+2023-11-02T15:33:17.053Z info: 🟢 Middlewares configurated
+2023-11-02T15:33:17.062Z info: 🟢 Routes registered
+2023-11-02T15:33:17.071Z info: 🟢 App listening on the port 3000
+2023-11-02T15:33:17.106Z info: 🟢 Connected to the database
+2023-11-02T15:33:27.936Z info: 🟢 Middlewares configurated
+2023-11-02T15:33:27.955Z info: 🟢 Routes registered
+2023-11-02T15:33:27.964Z info: 🟢 App listening on the port 3000
+2023-11-02T15:33:27.982Z info: 🟢 Connected to the database
+2023-11-02T15:33:35.160Z info: 🟢 Middlewares configurated
+2023-11-02T15:33:35.166Z info: 🟢 Routes registered
+2023-11-02T15:33:35.171Z info: 🟢 App listening on the port 3000
+2023-11-02T15:33:35.186Z info: 🟢 Connected to the database
+2023-11-02T15:34:48.795Z info: 🟢 Middlewares configurated
+2023-11-02T15:34:48.800Z info: 🟢 Routes registered
+2023-11-02T15:34:48.808Z info: 🟢 App listening on the port 3000
+2023-11-02T15:34:48.824Z info: 🟢 Connected to the database
+2023-11-02T15:35:32.193Z info: 🟢 Middlewares configurated
+2023-11-02T15:35:32.198Z info: 🟢 Routes registered
+2023-11-02T15:35:32.202Z info: 🟢 App listening on the port 3000
+2023-11-02T15:35:32.212Z info: 🟢 Connected to the database
+2023-11-02T15:37:20.894Z info: 🟢 Middlewares configurated
+2023-11-02T15:37:20.900Z info: 🟢 Routes registered
+2023-11-02T15:37:20.907Z info: 🟢 App listening on the port 3000
+2023-11-02T15:37:20.923Z info: 🟢 Connected to the database
+2023-11-02T15:37:32.229Z info: 🟢 Middlewares configurated
+2023-11-02T15:37:32.236Z info: 🟢 Routes registered
+2023-11-02T15:37:32.241Z info: 🟢 App listening on the port 3000
+2023-11-02T15:37:32.254Z info: 🟢 Connected to the database
+2023-11-02T15:38:33.885Z info: 🟢 Middlewares configurated
+2023-11-02T15:38:33.889Z info: 🟢 Routes registered
+2023-11-02T15:38:33.894Z info: 🟢 App listening on the port 3000
+2023-11-02T15:38:33.915Z info: 🟢 Connected to the database
+2023-11-02T15:39:38.679Z info: 🟢 Middlewares configurated
+2023-11-02T15:39:38.687Z info: 🟢 Routes registered
+2023-11-02T15:39:38.692Z info: 🟢 App listening on the port 3000
+2023-11-02T15:39:38.714Z info: 🟢 Connected to the database
+2023-11-02T15:40:52.427Z info: 🟢 Middlewares configurated
+2023-11-02T15:40:52.431Z info: 🟢 Routes registered
+2023-11-02T15:40:52.445Z info: 🟢 App listening on the port 3000
+2023-11-02T15:40:52.463Z info: 🟢 Connected to the database
+2023-11-02T16:59:21.901Z info: 🟢 Middlewares configurated
+2023-11-02T16:59:21.948Z info: 🟢 Routes registered
+2023-11-02T16:59:21.976Z info: 🟢 App listening on the port 3000
+2023-11-02T16:59:22.097Z info: 🟢 Connected to the database
+2023-11-02T16:59:39.094Z error: Error 401 - Missing authorization header.
+2023-11-02T16:59:39.109Z info: [0mGET /producto [33m401[0m 13.148 ms - 56[0m
+2023-11-02T16:59:54.693Z error: Error 404 - User not found
+2023-11-02T16:59:54.695Z info: [0mPOST /auth/login [33m404[0m 152.115 ms - 41[0m
+2023-11-02T17:00:14.933Z info: [0mPOST /auth/signup [32m200[0m 250.459 ms - 213[0m
+2023-11-02T17:00:24.255Z info: [0mPOST /auth/login [32m200[0m 114.243 ms - 396[0m
+2023-11-02T17:01:02.496Z info: [0mGET /producto [32m200[0m 44.865 ms - 2[0m
+2023-11-02T17:04:30.608Z error: Error 401 - Missing authorization header.
+2023-11-02T17:04:30.628Z info: [0mPOST /producto [33m401[0m 40.078 ms - 56[0m
+2023-11-02T17:04:52.388Z info: [0mPOST /producto [32m200[0m 99.497 ms - 237[0m
+2023-11-02T17:17:13.598Z info: 🟢 Middlewares configurated
+2023-11-02T17:17:13.603Z info: 🟢 Routes registered
+2023-11-02T17:17:13.609Z info: 🟢 App listening on the port 3000
+2023-11-02T17:17:13.640Z info: 🟢 Connected to the database
+2023-11-02T17:18:58.687Z info: 🟢 Middlewares configurated
+2023-11-02T17:18:58.691Z info: 🟢 Routes registered
+2023-11-02T17:18:58.696Z info: 🟢 App listening on the port 3000
+2023-11-02T17:18:58.712Z info: 🟢 Connected to the database
+2023-11-02T17:19:14.451Z info: 🟢 Middlewares configurated
+2023-11-02T17:19:14.456Z info: 🟢 Routes registered
+2023-11-02T17:19:14.462Z info: 🟢 App listening on the port 3000
+2023-11-02T17:19:14.472Z info: 🟢 Connected to the database
+2023-11-02T17:21:34.062Z info: 🟢 Middlewares configurated
+2023-11-02T17:21:34.071Z info: 🟢 Routes registered
+2023-11-02T17:21:34.076Z info: 🟢 App listening on the port 3000
+2023-11-02T17:21:34.090Z info: 🟢 Connected to the database
+2023-11-02T17:23:05.367Z info: 🟢 Middlewares configurated
+2023-11-02T17:23:05.373Z info: 🟢 Routes registered
+2023-11-02T17:23:05.377Z info: 🟢 App listening on the port 3000
+2023-11-02T17:23:05.398Z info: 🟢 Connected to the database
+2023-11-02T17:24:20.492Z info: 🟢 Middlewares configurated
+2023-11-02T17:24:20.508Z info: 🟢 Routes registered
+2023-11-02T17:24:20.514Z info: 🟢 App listening on the port 3000
+2023-11-02T17:24:20.536Z info: 🟢 Connected to the database
+2023-11-02T17:27:22.046Z info: 🟢 Middlewares configurated
+2023-11-02T17:27:22.051Z info: 🟢 Routes registered
+2023-11-02T17:27:22.058Z info: 🟢 App listening on the port 3000
+2023-11-02T17:27:22.079Z info: 🟢 Connected to the database
+2023-11-02T17:28:19.636Z info: 🟢 Middlewares configurated
+2023-11-02T17:28:19.643Z info: 🟢 Routes registered
+2023-11-02T17:28:19.647Z info: 🟢 App listening on the port 3000
+2023-11-02T17:28:19.664Z info: 🟢 Connected to the database
+2023-11-02T17:28:49.320Z info: 🟢 Middlewares configurated
+2023-11-02T17:28:49.328Z info: 🟢 Routes registered
+2023-11-02T17:28:49.334Z info: 🟢 App listening on the port 3000
+2023-11-02T17:28:49.345Z info: 🟢 Connected to the database
+2023-11-02T17:29:37.023Z info: 🟢 Middlewares configurated
+2023-11-02T17:29:37.043Z info: 🟢 Routes registered
+2023-11-02T17:29:37.066Z info: 🟢 App listening on the port 3000
+2023-11-02T17:29:37.187Z info: 🟢 Connected to the database
+2023-11-02T17:30:20.480Z info: 🟢 Middlewares configurated
+2023-11-02T17:30:20.491Z info: 🟢 Routes registered
+2023-11-02T17:30:20.500Z info: 🟢 App listening on the port 3000
+2023-11-02T17:30:20.527Z info: 🟢 Connected to the database
+2023-11-02T17:31:20.596Z info: 🟢 Middlewares configurated
+2023-11-02T17:31:20.601Z info: 🟢 Routes registered
+2023-11-02T17:31:20.606Z info: 🟢 App listening on the port 3000
+2023-11-02T17:31:20.621Z info: 🟢 Connected to the database
+2023-11-02T17:33:44.368Z info: 🟢 Middlewares configurated
+2023-11-02T17:33:44.376Z info: 🟢 Routes registered
+2023-11-02T17:33:44.382Z info: 🟢 App listening on the port 3000
+2023-11-02T17:33:44.404Z info: 🟢 Connected to the database
+2023-11-02T17:58:52.308Z error: Error 401 - Missing authorization header.
+2023-11-02T18:03:14.706Z info: 🟢 Middlewares configurated
+2023-11-02T18:03:14.716Z info: 🟢 Routes registered
+2023-11-02T18:03:14.725Z info: 🟢 App listening on the port 3000
+2023-11-02T18:03:14.747Z info: 🟢 Connected to the database
+2023-11-02T18:03:16.207Z info: 🟢 Middlewares configurated
+2023-11-02T18:03:16.210Z info: 🟢 Routes registered
+2023-11-02T18:03:16.214Z info: 🟢 App listening on the port 3000
+2023-11-02T18:03:16.225Z info: 🟢 Connected to the database
+2023-11-02T18:07:50.815Z info: 🟢 Middlewares configurated
+2023-11-02T18:07:50.828Z info: 🟢 Routes registered
+2023-11-02T18:07:50.838Z info: 🟢 App listening on the port 3000
+2023-11-02T18:07:50.892Z info: 🟢 Connected to the database
+2023-11-02T18:13:11.531Z info: 🟢 Middlewares configurated
+2023-11-02T18:13:11.537Z info: 🟢 Routes registered
+2023-11-02T18:13:11.547Z info: 🟢 App listening on the port 3000
+2023-11-02T18:13:11.562Z info: 🟢 Connected to the database
+2023-11-02T18:13:32.514Z info: 🟢 Middlewares configurated
+2023-11-02T18:13:32.521Z info: 🟢 Routes registered
+2023-11-02T18:13:32.549Z info: 🟢 App listening on the port 3000
+2023-11-02T18:13:32.617Z info: 🟢 Connected to the database
+2023-11-02T18:15:22.502Z info: 🟢 Middlewares configurated
+2023-11-02T18:15:22.519Z info: 🟢 Routes registered
+2023-11-02T18:15:22.534Z info: 🟢 App listening on the port 3000
+2023-11-02T18:15:22.570Z info: 🟢 Connected to the database
+2023-11-02T18:15:27.588Z error: Error 404 - prduct not found
+2023-11-02T18:15:41.092Z error: Validation Error: El nombre debe tener un minimo de 3 caracteres y un maximo de 20, El formato de la URL de la imagen no es correcto
+2023-11-02T18:15:41.093Z error: Error 400 - El nombre debe tener un minimo de 3 caracteres y un maximo de 20, El formato de la URL de la imagen no es correcto
+2023-11-02T18:17:17.476Z error: Error 401 - Este usuario no es administrador
+2023-11-02T18:18:06.698Z error: Error 401 - Este usuario no es administrador
+2023-11-02T20:21:00.699Z info: 🟢 Middlewares configurated
+2023-11-02T20:21:00.710Z info: 🟢 Routes registered
+2023-11-02T20:21:00.722Z info: 🟢 App listening on the port 3000
+2023-11-02T20:21:00.780Z info: 🟢 Connected to the database
+2023-11-02T20:21:46.932Z error: Error 401 - Este usuario no es administrador
+2023-11-02T20:22:19.521Z error: Validation Error: El formato de la URL de la imagen no es correcto
+2023-11-02T20:22:19.524Z error: Error 400 - El formato de la URL de la imagen no es correcto
+2023-11-02T20:26:33.799Z info: 🟢 Middlewares configurated
+2023-11-02T20:26:33.803Z info: 🟢 Routes registered
+2023-11-02T20:26:33.809Z info: 🟢 App listening on the port 3000
+2023-11-02T20:26:33.823Z info: 🟢 Connected to the database
